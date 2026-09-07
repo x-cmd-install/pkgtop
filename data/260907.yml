@@ -5,7 +5,7 @@ about:
   head: c41e785
   archived: false
   latestVersion: "2.5.1"
-  collectedAt: 2026-09-07T06:07:33Z
+  collectedAt: 2026-09-07T18:25:34Z
 timeline:
   created: 2019-07-19
   lastCommit: 2025-04-20
@@ -80,7 +80,7 @@ total:
   commit: 417
 ---
 path: /home/runner/.x-repo/github.com/orhun/pkgtop
-collectedAt: 2026-09-07T06:07:35Z
+collectedAt: 2026-09-07T18:25:34Z
 loc:
   Go:
     code: 582
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:07:36+00:00
+  collectedAt: 2026-09-07T18:25:35+00:00
   platform:
     darwin/arm64:
       name:  null
