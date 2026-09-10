@@ -7,7 +7,7 @@ about:
   latestVersion: "2.5.1"
   latestRelease: "2.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:08:48Z
+  collectedAt: 2026-09-10T22:38:39Z
 timeline:
   created: 2019-07-19
   lastCommit: 2025-04-20
@@ -84,7 +84,7 @@ total:
   commit: 417
 ---
 path: /home/runner/.x-repo/github.com/orhun/pkgtop
-collectedAt: 2026-09-10T21:08:49Z
+collectedAt: 2026-09-10T22:38:41Z
 loc:
   Go:
     code: 582
