@@ -1,0 +1,113 @@
+- repo: aur
+  srcname: pkgtop
+  binname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: 2.5.1-2
+  status: newest
+  summary: Interactive package manager & resource monitor
+  maintainers:
+    - orhun@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: pkgtop-git
+  binname: pkgtop-git
+  visiblename: pkgtop-git
+  version: 2.5.1.r0.ga367254
+  origversion: 2.5.1.r0.ga367254-1
+  status: rolling
+  summary: Interactive package manager & resource monitor (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - GPL3
+- repo: nix_stable_24_05
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor designed for the GNU/Linux
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - GPL-3.0-only
+- repo: termux
+  srcname: pkgtop
+  binname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: null
+  status: newest
+  summary: Interactive package manager and resource monitor
+  maintainers:
+    - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: pkgtop
+  binname: pkgtop
+  visiblename: pkgtop
+  version: 2.5.1
+  origversion: 2.5.1_1
+  status: newest
+  summary: Interactive package manager and resource monitor
+  maintainers:
+    - knusbaum+void@sdf.org
+  licenses:
+    - GPL-3.0-or-later
